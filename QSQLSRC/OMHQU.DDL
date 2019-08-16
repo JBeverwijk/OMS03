@@ -28,6 +28,6 @@ LABEL ON COLUMN DOMS03DDTA/OMHQU
 ( QUHEDC TEXT IS 'Helpdesk code' ,
   QUQUE# TEXT IS 'Question number' ,
   QUQUEI TEXT IS 'Question indicator' ,
-  QUQGRC TEXT IS 'Question group code' ,
+  QUQGRC TEXT IS 'Question group' ,
   QUQUES TEXT IS 'Question' ) ;
 
